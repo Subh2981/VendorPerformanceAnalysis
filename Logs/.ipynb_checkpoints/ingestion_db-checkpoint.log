@@ -1,0 +1,4 @@
+2025-11-21 09:55:56,418-INFO-Ingesting begin_inventory.csv
+2025-11-21 09:55:58,095-INFO-Ingesting end_inventory.csv
+2025-11-21 09:56:03,415-INFO-Ingesting purchases.csv
+2025-11-21 09:56:35,016-INFO-Ingesting purchase_prices.csv

@@ -1,0 +1,10 @@
+2025-11-21 09:55:56,418-INFO-Ingesting begin_inventory.csv
+2025-11-21 09:55:58,095-INFO-Ingesting end_inventory.csv
+2025-11-21 09:56:03,415-INFO-Ingesting purchases.csv
+2025-11-21 09:56:35,016-INFO-Ingesting purchase_prices.csv
+2025-11-21 09:56:49,412-INFO-Ingesting sales.csv
+2025-11-21 10:00:24,891-INFO-Ingesting vendor_invoice.csv
+2025-11-21 10:00:25,029-INFO-Ingesting vendor_sales_summary.csv
+2025-11-21 10:00:25,185-INFO-------------Ingestion complete----------
+2025-11-21 10:00:25,186-INFO-
+ Totsl Time Taken: 4.482759586970011 minutes
